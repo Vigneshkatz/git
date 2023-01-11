@@ -1,1 +1,2 @@
 hello world im using git and iam editing usig this text filr using git
+new line 
